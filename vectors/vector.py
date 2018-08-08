@@ -1,5 +1,4 @@
 import math
-from utils import cross_product
 
 
 # TODO: Implement TypeErrorss

@@ -1,4 +1,4 @@
-from vector import Vector
+from vectors.vector import Vector
 
 if __name__ == "__main__":
     # Addition
